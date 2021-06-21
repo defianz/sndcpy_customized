@@ -2,6 +2,8 @@
 sndcpy를 커스터마이징 하여, 단말기 (sdk 29이상) 의 sndcpy 포트 접근시,  출력 사운드 데이터를 wav 형식의 데이터로 전달함
 
 
+# sndcpy
+
 This tool forwards audio from an Android 10 device to the computer. It does not
 require any _root_ access. It works on _GNU/Linux_, _Windows_ and _macOS_.
 
